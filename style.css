@@ -163,6 +163,12 @@ gap: 2rem;
    margin-top: auto;
 }
 
+footer{
+   color:var(--neutral-white);
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: var(--neutral-white) }
+
 @media (min-width:768px){
    
    main{
